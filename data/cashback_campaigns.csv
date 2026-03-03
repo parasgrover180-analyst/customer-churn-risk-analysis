@@ -1,0 +1,4 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,cashback_type,cashback_value,min_transaction_amount
+1,First Transaction Bonus,NewUser,2025-04-01,2025-05-31,Flat,50,100
+2,Reactivation Offer,Reactivation,2025-07-01,2025-08-31,Flat,75,200
+3,Diwali Festival Offer,Festival,2025-10-01,2025-10-31,Percentage,5,300
