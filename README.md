@@ -56,7 +56,7 @@ The objective of this project was to:
 ## Dashboard Preview
 
 ![Churn Overview](assets/Churn_overview.png)
-![Risk & Revenue Analysis](assets/Risk_and_Revenue analysis.png)
+![Risk & Revenue Analysis](assets/Risk_and_Revenue_analysis.png)
 
 ---
 
@@ -69,4 +69,5 @@ SQL | Power BI | Revenue Analytics
 ---
 
 ⭐ If you found this project insightful, feel free to connect or provide feedback.
+
 
